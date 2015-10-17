@@ -50,9 +50,9 @@ h1 {
 .description {
 	padding-left: 50px;
 	padding-right: 25px;
-	text-align: center;
+	text-align: left;
 	font-size: 1.2em;
-	font-family: courier;
+	font-family: calibri;
 	color: pink;
 }
 
@@ -103,4 +103,8 @@ pre {
     font-size: 40px;
     text-align: center;
     
+}
+
+ul {
+    text-align: center;
 }
