@@ -51,8 +51,8 @@ table {
 	word-wrap: break-word;
 	padding-top:10%;
 	position: relative;
-	left: 500px;
-	top: 200px;
+	left: 100px;
+	top: 100px;
 }
 
 th {
@@ -82,11 +82,11 @@ th, td {
 }
 
 ul {
-    text-indent: 200px;
+    text-align: center;
 }
 
 #imagecss {
     position: relative;
-    left: 200px;
-    top: 500px;
+    left: 100px;
+    top: 100px;
 }
