@@ -9,7 +9,7 @@ body,html {
 	height: 100%;
 	margin: 0 auto;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	color: #ffffff;
+	color: black;
 }
 
 a {
@@ -50,9 +50,7 @@ table {
 	margin: 0 auto;
 	word-wrap: break-word;
 	padding-top:10%;
-	position: relative;
-	left: 100px;
-	top: 100px;
+
 }
 
 th {
@@ -79,10 +77,6 @@ th, td {
     font-size: 40px;
     text-align: center;
     
-}
-
-ul {
-    text-align: center;
 }
 
 #imagecss {
