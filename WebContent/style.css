@@ -46,10 +46,11 @@ h1 {
 
 table {
 	table-layout: fixed;
-	width: 800px;
+	width: 1000px;
 	margin: 0 auto;
 	word-wrap: break-word;
 	padding-top:10%;
+	position: relative;
 	left: 500px;
 	top: 200px;
 }
@@ -86,6 +87,6 @@ ul {
 
 #imagecss {
     position: relative;
-    left: 1000px;
-    top: 2000px;
+    left: 200px;
+    top: 500px;
 }
