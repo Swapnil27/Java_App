@@ -89,3 +89,9 @@ pre {
 	margin: 0;
 }
 
+#message {
+    font-family: verdana;
+    color: orange;
+    font-size: 15px;
+}
+
