@@ -67,6 +67,8 @@ table {
 	margin: 0 auto;
 	word-wrap: break-word;
 	padding-top:10%;
+	left: 500px;
+	top: 200px;
 }
 
 th {
@@ -107,4 +109,9 @@ pre {
 
 ul {
     text-indent: 200px;
+}
+
+#imagecss {
+    left: 100px;
+    top: 200px;
 }
