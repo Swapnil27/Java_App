@@ -45,9 +45,8 @@ h1 {
 
 
 table {
-    float: right;
-	table-layout: fixed;
-	width: 1000px;
+    table-layout: fixed;
+	width: 95%;
 	margin: 0 auto;
 	word-wrap: break-word;
 	padding-top:10%;
@@ -81,8 +80,11 @@ th, td {
 }
 
 #imagecss {
-    float: left;
     position: relative;
     left: 100px;
     top: 100px;
+}
+
+#imagecsscell {
+    width: 40%;
 }
