@@ -55,8 +55,6 @@ th, td {
 }
 
 #heading {
-    top: 200px;
-    position: relative;
     font-family: Arial;
     color: green;
     font-size: 50px;
