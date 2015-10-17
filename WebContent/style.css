@@ -12,41 +12,24 @@ body,html {
 	color: black;
 }
 
-a {
-	text-decoration: none;
-	color: #00aed1;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
-.newappIcon {
-	padding-top: 10%;
-	display: block;
-	margin: 0 auto;
-	padding-bottom: 2em;
-	max-width:200px;
-}
 
 h1 {
 	font-weight: bold;
 	font-size: 2em;
 }
 
-.description {
-	padding-left: 50px;
+#description {
+	padding-left: 25px;
 	padding-right: 25px;
-	text-align: left;
+	text-align: center;
 	font-size: 1.2em;
 	font-family: calibri;
-	color: red;
+	color: #FF0000;
 }
 
 
 table {
-    table-layout: fixed;
-	width: 95%;
+    width: 95%;
 	margin: 0 auto;
 	word-wrap: break-word;
 	padding-top:10%;
@@ -72,17 +55,19 @@ th, td {
 }
 
 #heading {
+    top: 200px;
+    position: relative;
     font-family: Arial;
     color: green;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
+    font-weight: bold;
     
 }
 
 #imagecss {
-    position: relative;
-    left: 100px;
-    top: 100px;
+
+    box-align: center;
 }
 
 #imagecsscell {
