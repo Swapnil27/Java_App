@@ -45,6 +45,7 @@ h1 {
 
 
 table {
+    float: right;
 	table-layout: fixed;
 	width: 1000px;
 	margin: 0 auto;
@@ -80,6 +81,7 @@ th, td {
 }
 
 #imagecss {
+    float: left;
     position: relative;
     left: 100px;
     top: 100px;
